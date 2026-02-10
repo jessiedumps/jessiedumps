@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jessie
 
-I work in **Technical Operations (Systems & Infrastructure Security)** —  
+I work as a **Technical Operations (Systems & Infrastructure Security)** —  
 which means I keep systems stable, secure, and slightly less angry.
 
 I spend most of my time:
